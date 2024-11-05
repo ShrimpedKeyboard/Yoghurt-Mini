@@ -19,6 +19,7 @@ The outer weight with use a similar system to the hokaku40 with a center badge (
 the case will not be open sourced
 
 ![alt text](https://github.com/ShrimpedKeyboard/Yoghurt-Mini/blob/main/Gallery/Renders/Case1.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/Yoghurt-Mini/blob/main/Gallery/Renders/Case2.png?raw=true)
 
  --- 
 

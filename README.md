@@ -4,7 +4,9 @@
 
 
 Yoghurt mini is a "40%" Electro Capacitive Tkl like keyboard with the option to have a numpad like top case or
-a top case with tkl blockers
+a top case with tkl blockers 
+
+this thing has like 80 keys lol
 
 ![alt text](https://github.com/ShrimpedKeyboard/Yoghurt-Mini/blob/main/Misc/yoghurt-mini.png?raw=true)
  --- 

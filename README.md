@@ -18,8 +18,8 @@ On the inside of the case you can Stick a cheap ali express brass weight inside
 The outer weight with use a similar system to the hokaku40 with a center badge (Currently unfinished)
 the case will not be open sourced
 
-![alt text](https://github.com/ShrimpedKeyboard/Yoghurt-Mini/blob/main/Gallery/Renders/Case1.png?raw=true)
-![alt text](https://github.com/ShrimpedKeyboard/Yoghurt-Mini/blob/main/Gallery/Renders/Case2.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/Yoghurt-Mini/blob/main/Gallery/Renders/Case3.png?raw=true)
+![alt text](https://github.com/ShrimpedKeyboard/Yoghurt-Mini/blob/main/Gallery/Renders/Case4.png?raw=true)
 
  --- 
 
